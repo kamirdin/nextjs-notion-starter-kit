@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'kamirdin',
-  github: 'kamirdin',
+  github: 'kam1rdin',
   linkedin: null,
 
   // default notion icon and cover images for site-wide consistency (optional)
