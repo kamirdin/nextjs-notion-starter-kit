@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'My Notes About My Things',
 
   // social usernames (optional)
-  twitter: 'kamirdin',
-  github: 'kam1rdin',
+  twitter: 'kam1rdin',
+  github: 'kamirdin',
   linkedin: null,
 
   // default notion icon and cover images for site-wide consistency (optional)
